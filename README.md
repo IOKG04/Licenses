@@ -6,7 +6,10 @@
 
 These licenses I made with the purpose of actually being used.
 
-So far there are none in this catigory.
+### MIT-Festival-Light
+
+The [MIT-Festival-Light](MIT-FL/MIT-Festival-Light) license is a permissive software license based on the [MIT Festival Variant](https://spdx.org/licenses/MIT-Festival.html), which is slightly more relaxed about marking changes, only requiring you mark if *any* changes where done, not which changes.  
+Otherwise it's pretty much the same, though I did replace some some wordings with those of the original [MIT](https://spdx.org/licenses/MIT.html) license's wordings (because I like them more).
 
 ## Half joke licenses
 
@@ -28,7 +31,7 @@ Nothing here yet, though I got some ideas.
 
 If you wish to contribute a license, be it a serious, half joke or joke one, fork the repository, add your license (or add translations or whatever you want) and then make a pull request.
 
-If you make your own license, it should be in its own directory, which should share a name with the abbreviation for the license.  
+If you make your own license, it should be in its own directory, which should share a name with the abbreviation for the license (or its SPDX license identifier, if you manage to get it on there).  
 The directory itself should contain the license in plain text in english, as well as any of the following (if you want):  
 - Versions of the license in other file formats
 - Sub-directories containing translations of the license. Please use the [ISO 639 language code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) of the language as the sub-directory's name.
